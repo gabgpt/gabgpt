@@ -15,19 +15,11 @@ I enjoy:
 - Improving developer experience and product quality
 - Bringing strategy, architecture, and implementation together
 
-## What I do
-
-- Design and implement SAP cloud solutions using modern architectures and best practices
-- Build front-end experiences with a strong focus on usability, performance, and maintainability
-- Work across business, UX, and engineering to deliver practical digital transformation outcomes
-- Support integration between SAP platforms, APIs, and business applications
-- Create solutions that are scalable, secure, and aligned with long-term goals
 
 ## Tech stack
 
 ### Cloud & architecture
 - SAP BTP
-- SAP Integration Suite
 - SAP S/4HANA ecosystem
 - Cloud-native architecture
 - API design and integration
@@ -39,7 +31,6 @@ I enjoy:
 - React
 - Angular
 - UI5 / SAP Fiori
-- Responsive and accessible UI development
 
 ### Tools & practices
 - Git / GitHub
@@ -51,8 +42,6 @@ I enjoy:
 ## My philosophy
 
 I believe technology should be both powerful and human-centered. Great enterprise software should not only solve business problems — it should also feel intuitive, efficient, and enjoyable to use.
-
-That is why I care deeply about the balance between architecture and experience: clean systems, thoughtful design, and a clear user journey.
 
 ## Let's connect
 

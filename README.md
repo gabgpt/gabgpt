@@ -8,36 +8,14 @@ I design and build modern, scalable, and user-friendly digital solutions that co
 
 I am a SAP Cloud Architect and Front-End Developer focused on creating cloud-native applications that are both technically sound and great to use. My work sits at the intersection of architecture, integration, and user experience — combining enterprise standards with modern development practices.
 
-I enjoy:
-- Designing cloud-ready SAP solutions
-- Building responsive and accessible front-end experiences
-- Connecting enterprise systems with clean APIs and integrations
-- Improving developer experience and product quality
-- Bringing strategy, architecture, and implementation together
-
 
 ## Tech stack
 
-### Cloud & architecture
-- SAP BTP
-- SAP S/4HANA ecosystem
-- Cloud-native architecture
-- API design and integration
-- Enterprise application design
-
-### Front end
-- JavaScript / TypeScript
-- HTML / CSS / SCSS
-- React
-- Angular
-- UI5 / SAP Fiori
-
-### Tools & practices
-- Git / GitHub
-- CI/CD
-- DevOps mindset
-- Agile delivery
-- Clean code and maintainable architecture
+| Area | Skills |
+| --- | --- |
+| Cloud & architecture | SAP BTP, SAP S/4HANA ecosystem, cloud-native architecture, API design and integration, enterprise application design |
+| Front end | JavaScript / TypeScript, HTML / CSS / SCSS, React, Angular, UI5 / SAP Fiori |
+| Tools & practices | Git / GitHub, CI/CD, DevOps mindset, agile delivery, clean code and maintainable architecture |
 
 ## My philosophy
 
